@@ -1,4 +1,4 @@
-https://leetcode.com/problems/concatenation-of-array/
+// https://leetcode.com/problems/concatenation-of-array/
 class Solution{
     public int[] getConcatenation(int[] nums){
         int ans[]=new int[2*nums.length];
