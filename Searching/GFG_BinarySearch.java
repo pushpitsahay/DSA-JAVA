@@ -1,6 +1,6 @@
 // https://www.geeksforgeeks.org/problems/binary-search-1587115620/1?page=1&category=Searching&status=solved&sortBy=submissions
-class Solution {
-    int binarysearch(int arr[], int n, int k) {
+class Solution{
+    int binarysearch(int arr[], int n, int k){
         // code here
         int low=0;
         int high=arr.length-1;
